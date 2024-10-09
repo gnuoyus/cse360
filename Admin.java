@@ -23,7 +23,7 @@ public class Admin extends User {
     public String addRoleToUser(User user, String role) {
     	String messageLabel = "";
         if (user != null) {
-        	if (role.equals("Admin") || role.equals("Student") || role.equals("Instrcutor")) {
+        	if (role.equals("Admin") || role.equals("Student") || role.equals("Instructor")) {
             user.addRole(role);
         	messageLabel = "Role " + role + " added to " + user.getUserName();
         	} else {
