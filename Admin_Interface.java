@@ -245,7 +245,7 @@ public class Admin_Interface extends Application {
 
             // Check if the username is provided and exists in the database
             if (!username.isEmpty() && userDatabase.containsKey(username)) {
-                admin.deleteUser(username); // Deleting the user
+                admin.deleteUser(username, userDatabase); // Deleting the user
                 deleteMessage.setText(username + " deleted.");
             } else {
                 deleteMessage.setText("User does not exist."); // Error message if user not found
