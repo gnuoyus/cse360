@@ -12,9 +12,15 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * The Admin_Interface class provides a graphical user interface (GUI) for admins to manage users.
+ * <p>Admin_Interface Class</p>
+ *
+ * <p>Description: The Admin_Interface class provides a graphical user interface (GUI) for admins to manage users.
  * This interface includes functionality to invite new users, reset passwords, delete users, 
- * modify roles, and view a list of users.
+ * modify roles, and view a list of users.</p>
+ *
+ * <p>Author: Group Tu64</p>
+ *
+ * <p>Version: 1.00 2024-10-02</p>
  */
 public class Admin_Interface extends Application {
 
