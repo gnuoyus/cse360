@@ -11,6 +11,15 @@ import javafx.util.Duration;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * <p>Student_Interface Class</p>
+ *
+ * <p>Description: A JavaFX application that allows students to interact with the system, manage their profile, and logout.</p> 
+ *
+ * <p>Author: Miriam & Suyoung</p>
+ *
+ * <p>Version: 1.00 2024-10-02</p>
+ */
 public class Student_Interface extends Application {
     private Map<String, User> userDatabase = new HashMap<>(); // Database to store user information
     private Student student; // Current student user
