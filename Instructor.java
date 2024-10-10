@@ -4,8 +4,14 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * The Instructor class represents a user with instructor privileges.
- * It extends the base User class and contains a reference to the user database.
+ * <p>Instructor Class</p>
+ *
+ * <p>Description: The Instructor class represents a user with instructor privileges.
+ * It extends the base User class and includes attributes and methods specific to instructors.</p>
+ *
+ * <p>Author: Group Tu64</p>
+ *
+ * <p>Version: 1.00 2024-10-02</p>
  */
 public class Instructor extends User {
 
