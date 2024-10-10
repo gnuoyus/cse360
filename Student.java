@@ -4,8 +4,14 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * The Student class represents a user with student privileges.
- * It extends the base User class and contains a reference to the user database.
+ * <p>Student Class</p>
+ *
+ * <p>Description: The Student class represents a user with student privileges.
+ * It extends the base User class and includes attributes and methods specific to students, such as managing course enrollment or tracking academic progress.</p>
+ *
+ * <p>Author: Group Tu64</p>
+ *
+ * <p>Version: 1.00 2024-10-02</p>
  */
 public class Student extends User {
 
