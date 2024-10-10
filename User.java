@@ -6,8 +6,14 @@ import java.util.Set;
 import java.util.Arrays;
 
 /**
- * The User class represents a system user with various personal details and attributes. 
- * Users can perform basic operations such as logging in, setting up their account, and logging out
+ * <p>User Class</p>
+ *
+ * <p>Description: The User class represents a system user with various personal details and attributes. 
+ * Users can perform basic operations such as logging in, setting up their account, and logging out.</p>
+ *
+ * <p>Author: Group Tu64</p>
+ *
+ * <p>Version: 1.00 2024-10-02</p>
  */
 class User {
 
