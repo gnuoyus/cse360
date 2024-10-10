@@ -12,9 +12,16 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Instructor_Interface is the GUI class for instructors.
- * This class displays the instructor panel and handles user interactions like logging out.
+ * <p>Instructor_Interface Class</p>
+ *
+ * <p>Description: Instructor_Interface is the GUI class for instructors.
+ * This class displays the instructor panel and handles user interactions like logging out.</p>
+ *
+ * <p>Author: Group Tu64</p>
+ *
+ * <p>Version: 1.00 2024-10-02</p>
  */
+
 public class Instructor_Interface extends Application {
     private Map<String, User> userDatabase = new HashMap<>(); // A map to store all users
     private Instructor instructor; // The current instructor using the interface
