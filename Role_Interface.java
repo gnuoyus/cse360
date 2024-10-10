@@ -18,7 +18,7 @@ import java.util.Set;
  *
  * <p>Description: A JavaFX application that allows users to select roles from a list.</p>
  *
- * <p>Author: [Your Name]</p>
+ * <p>Author: Miriam & Suyoung </p>
  *
  * <p>Version: 1.00 2024-10-02</p>
  */
