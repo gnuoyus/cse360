@@ -5,7 +5,7 @@ package application;
  *
  * <p>Description: A Java-based password evaluator that checks if passwords meet specific criteria.</p>
  *
- * <p>Author: Miriam Khan</p>
+ * <p>Author: Group Tu64</p>
  *
  * <p>Version: 1.00 2024-10-02</p>
  */
