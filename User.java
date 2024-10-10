@@ -5,6 +5,10 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.Arrays;
 
+/**
+ * The User class represents a system user with various personal details and attributes. 
+ * Users can perform basic operations such as logging in, setting up their account, and logging out
+ */
 class User {
 
     private String userName; // Username of the user
