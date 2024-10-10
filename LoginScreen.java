@@ -17,8 +17,14 @@ import java.time.LocalDateTime;
 import java.util.Arrays;
 
 /**
- * LoginScreen is the main login page where users can log in or set up their accounts.
- * It handles login validation, password creation, and account setup for new users.
+ * <p>LoginScreen Class</p>
+ *
+ * <p>Description: LoginScreen is the main login page where users can log in or set up their accounts.
+ * It handles login validation, password creation, and account setup for new users.</p>
+ *
+ * <p>Author: Group Tu64</p>
+ *
+ * <p>Version: 1.00 2024-10-02</p>
  */
 public class LoginScreen extends Application {
 
