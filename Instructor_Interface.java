@@ -21,7 +21,6 @@ import java.util.Map;
  *
  * <p>Version: 1.00 2024-10-02</p>
  */
-
 public class Instructor_Interface extends Application {
     private Map<String, User> userDatabase = new HashMap<>(); // A map to store all users
     private Instructor instructor; // The current instructor using the interface
