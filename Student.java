@@ -3,6 +3,10 @@ package application;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * The Student class represents a user with student privileges.
+ * It extends the base User class and contains a reference to the user database.
+ */
 public class Student extends User {
 
     private Map<String, User> userDatabase = new HashMap<>(); // Database to store user information
