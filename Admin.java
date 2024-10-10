@@ -6,9 +6,15 @@ import java.util.HashMap;
 import java.util.Random;
 
 /**
- * The Admin class represents an administrator who has special privileges in the system.
+ * <p>Admin Class</p>
+ *
+ * <p>Description: The Admin class represents an administrator who has special privileges in the system.
  * Admins can manage the user database by performing tasks such as deleting users, managing roles, resetting passwords, 
- * and backing up or restoring user data. The Admin class inherits properties and methods from the User class.
+ * and backing up or restoring user data. The Admin class inherits properties and methods from the User class.</p>
+ *
+ * <p>Author: Group Tu64</p>
+ *
+ * <p>Version: 1.00 2024-10-02</p>
  */
 public class Admin extends User {
 
